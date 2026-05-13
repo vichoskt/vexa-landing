@@ -1,0 +1,15 @@
+IMÁGENES DEL BRANDING VEXA
+==========================
+
+Coloca aquí tus archivos PNG del branding:
+
+  logo-horizontal.png  →  Logo completo (ajolote + V + VEXA + tagline)
+                          Fondo transparente recomendado.
+                          Alto sugerido: 80-120px (el ancho se ajusta solo)
+
+  axolotl.png          →  Solo el ajolote (para el hero)
+                          Fondo transparente recomendado.
+                          Tamaño sugerido: 500x500px o más
+
+Una vez que pongas los archivos, el navegador los cargará automáticamente.
+No necesitas cambiar nada más en el código — ya está configurado en src/config/site.js.
