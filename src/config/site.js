@@ -34,7 +34,7 @@ export const SITE_TAGLINE = 'Estrategia · Crecimiento · Resultados';
 // 3. Guarda y el navegador actualiza solo
 //
 // Logo horizontal completo (ajolote + V + VEXA + tagline):
-export const LOGO_IMAGE    = '/images/logo-horizontal.png';
+export const LOGO_IMAGE    = `${import.meta.env.BASE_URL}images/logo-horizontal.png`;
 //
 // Ajolote solo (para el hero y otras secciones):
-export const AXOLOTL_IMAGE = '/images/axolotl.png';
+export const AXOLOTL_IMAGE = `${import.meta.env.BASE_URL}images/axolotl.png`;
